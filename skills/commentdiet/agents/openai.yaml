@@ -3,4 +3,4 @@ interface:
   short_description: "Code review focused on comments"
   default_prompt: "Use $commentdiet to review the comments in this branch's changes."
 policy:
-  allow_implicit_invocation: false
+  allow_implicit_invocation: true

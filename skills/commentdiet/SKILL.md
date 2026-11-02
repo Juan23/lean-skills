@@ -1,7 +1,6 @@
 ---
 name: commentdiet
 description: Code review focused on comments. Proposes clearer names and code in place of explanatory comments, trims the comments that stay, and deletes noise and stale ones. Reviews a branch diff, a pull request, or a whole repo or path.
-disable-model-invocation: true
 ---
 
 # $commentdiet

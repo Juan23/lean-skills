@@ -1,0 +1,6 @@
+interface:
+  display_name: "Docdiet"
+  short_description: "On-demand documentation review and update"
+  default_prompt: "Use $docdiet for a bounded review and update of the requested canonical documentation."
+policy:
+  allow_implicit_invocation: false
